@@ -27,6 +27,7 @@ Documentation
    api
    conversion
    logging
+   threading_support
    windows
 
 Stan documentation
@@ -55,4 +56,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
